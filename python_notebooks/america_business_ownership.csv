@@ -1,4 +1,4 @@
-,year,region,economy,Statistic,stats value
+ignore_col,year,region,economy,Statistic,stats value
 8036,2001,Latin America,Argentina,max,3.92
 8037,2001,Latin America,Brazil,max,3.79
 8038,2001,Latin America,Mexico,max,5.83
